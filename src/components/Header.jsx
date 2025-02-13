@@ -15,8 +15,8 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <img
-              src="../src/images/Imagem do WhatsApp de 2025-02-13 à(s) 07.52.29_2cfc60e5.jpg"
-              alt="Energia Solar Solutions"
+              src="../src/images/logo.jpg"
+              alt="Ceará Energia"
               className="h-8 w-auto"
             />
             <span className="text-xl font-bold text-gray-800">Ceará Energia</span>
