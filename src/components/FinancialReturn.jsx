@@ -6,17 +6,17 @@ export default function FinancialReturn() {
     {
       icon: <DollarSign className="w-12 h-12 text-yellow-500" />,
       title: 'Retorno do Investimento',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       icon: <PiggyBank className="w-12 h-12 text-yellow-500" />,
       title: 'Economia Garantida',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       icon: <BarChart className="w-12 h-12 text-yellow-500" />,
       title: 'Valorização do Ativo',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     }
   ];
 

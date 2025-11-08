@@ -7,19 +7,19 @@ export default function FAQ() {
   const faqs = [
     {
       question: 'Quanto custa investir em uma usina solar?',
-      answer: 'Teste, esperando o lucas baitola mandar mais informações'
+      answer: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       question: 'Qual é o tempo de retorno do investimento?',
-      answer: 'Teste, esperando o lucas baitola mandar mais informações'
+      answer: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       question: 'Como funciona a venda de energia?',
-      answer: 'Teste, esperando o lucas baitola mandar mais informações'
+      answer: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       question: 'Quais são as garantias do investimento?',
-      answer: 'Teste, esperando o lucas baitola mandar mais informações'
+      answer: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     }
   ];
 

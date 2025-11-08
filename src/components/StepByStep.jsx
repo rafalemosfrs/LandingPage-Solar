@@ -6,22 +6,22 @@ export default function StepByStep() {
     {
       icon: <ClipboardCheck className="w-12 h-12 text-yellow-500" />,
       title: 'Análise de Viabilidade',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       icon: <Wrench className="w-12 h-12 text-yellow-500" />,
       title: 'Projeto e Instalação',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       icon: <Zap className="w-12 h-12 text-yellow-500" />,
       title: 'Conexão à Rede',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     },
     {
       icon: <LineChart className="w-12 h-12 text-yellow-500" />,
       title: 'Geração e Retorno',
-      description: 'Teste, esperando o lucas baitola mandar mais informações'
+      description: '  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem, aut repellat tenetur incidunt, corrupti enim, sunt consequuntur quis ut rem perspiciatis voluptatum odit amet voluptatibus soluta quo doloremque atque?'
     }
   ];
 
